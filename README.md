@@ -58,3 +58,13 @@ And you're all set!
 - [] To Buy Credits
 - [] Mobile Support
 - [] Better API Security
+
+
+## Deployment 🚦
+
+1. **Fork** this repository.
+2. **Go to Vercel** and select your forked repository for deployment.
+3. **Set the root directory** in Vercel’s settings if needed.
+4. **Add environment variables** in the Vercel settings.
+
+You're ready to deploy!
