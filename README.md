@@ -12,6 +12,8 @@ A modern web application that generates custom emojis using AI.
 - Error handling
 - Toast notifications
 
+[![Github All Releases](https://img.shields.io/github/downloads/VystroAI/emoji-maker/total.svg)]()
+
 ## Prerequisites 📋
 
 Before you begin, ensure you have:
